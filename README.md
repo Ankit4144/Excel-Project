@@ -9,7 +9,7 @@ This Excel-based project is modeled on a real-world consulting case by KPMG. It 
 
 ## Dataset Overview
 📎 **[Download the full dataset](https://docs.google.com/spreadsheets/d/1LxuheMo6rwzA1yq1r-gN5sKqTFcWZG7J/edit?gid=1445114962#gid=1445114962)**  
-   **[View full project guidelines](https://docs.google.com/document/d/1i6PC5UXqDDOAz2Kct7hrZ--fgD98wzR0zAS1YDCJv9w/edit?usp=sharing)**
+    **[View full project guidelines](https://docs.google.com/document/d/1i6PC5UXqDDOAz2Kct7hrZ--fgD98wzR0zAS1YDCJv9w/edit?usp=sharing)**
 
 The project used four key datasets:
 
@@ -50,6 +50,4 @@ The project used four key datasets:
   - Data Cleaning Functions
   - Dashboard Creation
 
-
-## Folder Structure
 
