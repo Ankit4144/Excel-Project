@@ -51,3 +51,39 @@ The project used four key datasets:
   - Dashboard Creation
 
 
+## Project Snapshots
+
+Visual highlights from the Excel report covering segmentation, trends, new customer insights, and executive summary:
+
+### 🔹 Customer Segmentation
+
+![Customer Segmentation](segment.png)
+
+> Distribution of existing customers segmented by wealth group and job industry.
+
+---
+
+### 🔹 Sales Trend Analysis
+
+![Sales Trend](SalesTrend.png)
+
+> Visual representation of total monthly sales and seasonal patterns.
+
+---
+
+### 🔹 New Customer Demographics & Location Insights
+
+![New Customer Insights](NewCustomer.png)
+
+> Analysis of new customers by location, gender, and wealth segment, including potential value.
+
+---
+
+### 🔹 Executive Summary Dashboard
+
+![Executive Summary](Insights.png)
+
+> Final Excel dashboard summarizing all key insights and business recommendations.
+
+---
+
